@@ -2,6 +2,9 @@
 
 Twaps is an experimental framework that brings web-like dynamics to native macOS applications. The name "Twaps" stands for "The Web for Apps" - a vision of enabling dynamic, modular UI components in native Swift applications.
 
+## Explainer
+https://youtu.be/OOz6oRY9mPc
+
 ## 🧪 Experimental Project
 
 **Note:** This is an experimental project created to explore the concept of dynamic native UI modules. It is not intended for production use at this stage. The code is shared to inspire discussion and collaboration around the idea of bringing web-like dynamics to native app development.
