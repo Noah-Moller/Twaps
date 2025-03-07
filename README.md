@@ -128,7 +128,7 @@ A macOS app for loading and displaying Twaps. This component:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤔 Limitations and Considerations
+## 🤔 Limitations
 
 - This is a proof of concept and has many limitations
 - Dynamic code loading has security implications that should be carefully considered
@@ -141,7 +141,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Enhanced security model with code signing
 - Dependency management for Twaps
 - A marketplace for discovering and sharing Twaps
-
-## 🙏 Acknowledgements
-
-Inspired by the web's dynamic content model and the power of SwiftUI.
